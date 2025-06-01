@@ -30,6 +30,7 @@ image = Image.open("credit_card_fraud_banner.jpg")
 st.image(image, use_container_width=True)
 
 
+
 # Feature Input
 st.header("🔎 Enter Transaction Details:")
 
@@ -57,6 +58,5 @@ if st.button("🚀 Predict Fraud"):
     else:
         st.success(f"✅ This transaction is predicted to be LEGITIMATE with probability {1 - probability:.2f}.")
 
-# Footer
-st.markdown("---")
+
 
