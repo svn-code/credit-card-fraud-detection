@@ -49,7 +49,7 @@ A binary classification project using **Logistic Regression** to detect fraudule
 - ✅ Confusion Matrix  
 - ✅ Classification Report (Precision, Recall, F1-Score, Support)  
 - ✅ ROC-AUC Score
-- (evaluation_metrics.png)
+- ![Evaluation_Metrics](evaluation_metrics.png)
 
 ### Visualizations:
 
