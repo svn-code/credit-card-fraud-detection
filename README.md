@@ -38,7 +38,7 @@ A binary classification project using **Logistic Regression** to detect fraudule
 ## 🧪 Model Training
 
 - **Model Used:** Logistic Regression
-- Trained on the **preprocessed and balanced** dataset.
+- Trained on the **preprocessed and balanced** dataset..
 
 ---
 
